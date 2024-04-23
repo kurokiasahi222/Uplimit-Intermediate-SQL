@@ -1,4 +1,4 @@
-##  This is a repo for all the project I completed througth Uplimit-Intermediate-SQL
+##  This is a repo for all the projects I completed througth Uplimit-Intermediate-SQL
 <a href="https://uplimit.com/">Uplimit</a> is an online learning platform where live courses are taught by industry experts.
 
 <div>
